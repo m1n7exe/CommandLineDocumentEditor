@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- Removed the references to the missing files -->
+  <!-- <ItemGroup><Compile Include="IDocumentConverter.fs" /><Compile Include="IDocumentConverter.cs.fs" /></ItemGroup> -->
+
+</Project>
